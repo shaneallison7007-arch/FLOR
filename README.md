@@ -1,4 +1,4 @@
-# Flatout Racing League Website (Vite + React)
+# Flatout Racing League 
 
 ## Run locally
 ```bash
